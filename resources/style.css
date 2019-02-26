@@ -1,4 +1,4 @@
-* {
+*, html {
   font-size: 18px;
   margin: 0;
   font-family: helvetica;
@@ -227,9 +227,9 @@ footer {
    padding-top: 0.5rem;
  }
 
- .footer {
+ footer .container {
    text-align: center;
   display: block;
  }
- 
+
 }
